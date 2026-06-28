@@ -18,9 +18,9 @@ def load_config():
     default_data = {
         "company_name": "SARL KADRI ASCENSEURS",
         "company_subtitle": "Installation, Maintenance et Modernisation d'Ascenseurs",
-        "company_address": "309 Rue Freres Zedri, Beni Tamou, Blida",
-        "company_phone": "+213 (0) 557 20 79 43 / 0799 06 07 38",
-        "company_email": "Kadri.ascenseurs@gmail.com",
+        "company_address": "*************, Blida",
+        "company_phone": "**************",
+        "company_email": "**************",
         "app_version": "v20.0 PRO",
         "currency": "DA"
     }
