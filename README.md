@@ -149,5 +149,5 @@ I am actively seeking **PhD opportunities** in:
 - Industrial IoT
 
 **Email:** bencheikhmohamed800@gmail.com  
-**LinkedIn:** linkedin.com/in/fresh-highachievingautomationengineer-bencheikh-mohamedidris  
+**LinkedIn:** www.linkedin.com/in/bencheikh-mohamed-idris 
 **Digital Twin Project:** https://github.com/Idriss099/digital-twin-predictive-maintenance
